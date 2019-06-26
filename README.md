@@ -1,1 +1,1 @@
-# w1.exercise-2
+![alt text](https://github.com/senjansen/w1.exercise-2/blob/master/exercise-2.png "Exercise 2")
